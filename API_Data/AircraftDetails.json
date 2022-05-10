@@ -45,6 +45,14 @@
     "AircraftType": "Passenger",
     "Range": "8700km",
     "MaxTakeOffWeight": "101000kg",
-    "searchTags": [ "a321", "A321", "a321-xlr", "A321-xlr", "a321 xlr", "A321 xlr", "a321xlr", "A321xlr","a321-XLR","airbus aircraft"]
+    "searchTags": [ "a321", "A321", "a321-xlr", "A321-xlr", "a321 xlr", "A321 xlr", "a321xlr", "A321xlr", "a321-XLR", "airbus aircraft" ]
+  },
+  {
+    "Aircraft": "A330-200F",
+    "Manufacturer": "Airbus",
+    "AircraftType": "Freighter",
+    "Range": "7600km",
+    "MaxTakeOffWeight": "233000kg",
+    "searchTags": [ "a330", "A330", "a330200f", "A330200f", "a330 200f", "A330 200F", "a330200F", "A330200F", "a330-200F", "airbus aircraft","airbus freighter","cargo" ]
   }
 ]
